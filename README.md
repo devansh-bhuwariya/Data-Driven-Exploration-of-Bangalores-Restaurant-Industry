@@ -19,9 +19,9 @@ The following tools were used in this project:
 * Matplotlib and Seaborn: libraries used for data visualization
 
 ## Files
-* zomato-bangalore-restaurants.csv: the original dataset used for analysis
 * ZOMATO_DATASET_PREPROCESSING.ipynb: the Jupyter Notebook containg the data preprocessing code
 * ZOMATO_DATASET_VISUALIZATION.ipynb: the Jupyter Notebook containing the data visualization code
+* ZOMATO_PREPROCESSED_DATASET.xlsx: the preprocessed dataset used for analysis
 * README.md: the file you are currently reading
 
 ## Conclusion
