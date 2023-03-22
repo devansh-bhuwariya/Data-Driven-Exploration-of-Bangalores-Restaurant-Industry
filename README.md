@@ -21,7 +21,7 @@ The following tools were used in this project:
 ## Files
 * zomato-bangalore-restaurants.csv: the original dataset used for analysis
 * ZOMATO_DATASET_PREPROCESSING.ipynb: the Jupyter Notebook containg the data preprocessing code
-* zomato_bangalore_restaurants.ipynb: the Jupyter Notebook containing the data visualization code
+* ZOMATO_DATASET_VISUALIZATION.ipynb: the Jupyter Notebook containing the data visualization code
 * README.md: the file you are currently reading
 
 ## Conclusion
